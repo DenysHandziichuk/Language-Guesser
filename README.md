@@ -4,6 +4,10 @@ A simple web app that guesses the programming language of your code snippet and 
 
 ---
 
+[**Try Demo**]([http://denyshandziichuk.me/Language-Guesser/])
+
+---
+
 ## 🚀 Features
 
 - 🧠 **Auto-detects** programming language from pasted code
