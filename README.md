@@ -4,10 +4,6 @@ A simple web app that guesses the programming language of your code snippet and 
 
 ---
 
-![Demo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-
----
-
 ## 🚀 Features
 
 - 🧠 **Auto-detects** programming language from pasted code
