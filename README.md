@@ -4,7 +4,8 @@ A simple web app that guesses the programming language of your code snippet and 
 
 ---
 
-[**Try Demo**]([http://denyshandziichuk.me/Language-Guesser/])
+[**Try Demo**](http://denyshandziichuk.me/Language-Guesser/)
+
 
 ---
 
